@@ -16,7 +16,7 @@ wget http://fishros.com/install -O fishros && . fishros
 ### 3.1 克隆项目
 
 ```bash
-git clone https://github.com/yourname/Docker_PX4.git
+git clone [https://github.com/yourname/Docker_PX4.git](https://github.com/hhhhxl/Docker_PX4.git)
 ```
 
 ### 3.2 构建镜像
